@@ -3,7 +3,17 @@ entries:
   custom-nginx:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-05-18T17:47:22.586875451+09:00"
+    created: "2020-05-18T18:10:50.299722023+09:00"
+    description: The Custom Nginx v0.2.0
+    digest: b6f0664d4440497f8f59eaae34d79208eaa9ce0f6412e2ff2ec474e6aaa120fa
+    name: custom-nginx
+    type: application
+    urls:
+    - custom-nginx-0.2.0.tgz
+    version: 0.2.0
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2020-05-18T18:10:50.299498295+09:00"
     description: The Custom Nginx v0.2
     digest: bd7f7fa9c2c47e7534bf0dbaf1becac3ca3f90a4594ca6ae7e293b3cfbcf7911
     name: custom-nginx
@@ -13,7 +23,7 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-05-18T17:47:22.586528948+09:00"
+    created: "2020-05-18T18:10:50.299251892+09:00"
     description: A Helm chart for Kubernetes
     digest: 957d3ffc2542fe300cbf08f4364ce0b5f19277034fd1ce96f09b2af7a34f9679
     name: custom-nginx
@@ -21,4 +31,4 @@ entries:
     urls:
     - custom-nginx-0.1.0.tgz
     version: 0.1.0
-generated: "2020-05-18T17:47:22.585941303+09:00"
+generated: "2020-05-18T18:10:50.298895892+09:00"
